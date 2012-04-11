@@ -1,1 +1,1 @@
-web: lein run -m noir-guchitter.core
+web: lein run -m noir-guchitter.server
